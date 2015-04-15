@@ -1,1 +1,2 @@
 my is test of delete.
+this is a bug.
